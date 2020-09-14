@@ -1,3 +1,0 @@
-/Users/abahnasy/my_github/algorithms/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/abahnasy/my_github/algorithms/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/abahnasy/my_github/algorithms/cmake-build-debug/CMakeFiles/algorithms.dir
